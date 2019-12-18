@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5846c178-9c44-4f55-b04c-b62d01c6fa39" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UbDaWmb4OdMHMEzlk6ciGjR76V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="JingDongSpider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Demo/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demo/spiders/JingDongSpider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Web_spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Demo/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demo/spiders/Web_spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="seleniumSpider (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Demo/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demo/spiders/seleniumSpider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="seleniumSpider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Demo/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demo/spiders/selenium.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.seleniumSpider (1)" />
+        <item itemvalue="Python.JingDongSpider" />
+        <item itemvalue="Python.seleniumSpider" />
+        <item itemvalue="Python.Web_spider" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5846c178-9c44-4f55-b04c-b62d01c6fa39" name="Default Changelist" comment="" />
+      <created>1575616464588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575616464588</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="668" y="136" key="#selenium" timestamp="1576492439985">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="668" y="136" key="#selenium/65.24.1855.1056@65.24.1855.1056" timestamp="1576492439985" />
+    <state x="721" y="297" key="FileChooserDialogImpl" timestamp="1575859275099">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="721" y="297" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1575859275099" />
+    <state width="1803" height="258" key="GridCell.Tab.0.bottom" timestamp="1576576509611">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1803" height="258" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1576576509611" />
+    <state width="1803" height="258" key="GridCell.Tab.0.center" timestamp="1576576509609">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1803" height="258" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1576576509609" />
+    <state width="1803" height="258" key="GridCell.Tab.0.left" timestamp="1576576509608">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1803" height="258" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1576576509608" />
+    <state width="1803" height="258" key="GridCell.Tab.0.right" timestamp="1576576509611">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1803" height="258" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1576576509611" />
+    <state width="1803" height="363" key="GridCell.Tab.1.bottom" timestamp="1576567765924">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1803" height="363" key="GridCell.Tab.1.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1576567765924" />
+    <state width="1803" height="363" key="GridCell.Tab.1.center" timestamp="1576567765923">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1803" height="363" key="GridCell.Tab.1.center/65.24.1855.1056@65.24.1855.1056" timestamp="1576567765923" />
+    <state width="1803" height="363" key="GridCell.Tab.1.left" timestamp="1576567765922">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1803" height="363" key="GridCell.Tab.1.left/65.24.1855.1056@65.24.1855.1056" timestamp="1576567765922" />
+    <state width="1803" height="363" key="GridCell.Tab.1.right" timestamp="1576567765923">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1803" height="363" key="GridCell.Tab.1.right/65.24.1855.1056@65.24.1855.1056" timestamp="1576567765923" />
+    <state x="516" y="174" key="SettingsEditor" timestamp="1576636076491">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="516" y="174" key="SettingsEditor/65.24.1855.1056@65.24.1855.1056" timestamp="1576636076491" />
+    <state x="509" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1575853199751">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="509" y="352" key="com.intellij.ide.util.TipDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1575853199751" />
+    <state x="526" y="278" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1576567555379">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="526" y="278" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/65.24.1855.1056@65.24.1855.1056" timestamp="1576567555379" />
+    <state x="649" y="236" key="search.everywhere.popup" timestamp="1575894560434">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="649" y="236" key="search.everywhere.popup/65.24.1855.1056@65.24.1855.1056" timestamp="1575894560434" />
+  </component>
+</project>
